@@ -1,0 +1,71 @@
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Даргинско-русский словарь</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Школа лингвистики НИУ ВШЭ</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Создан из словаря в формате DOC</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <entry>
+                <form>
+                    <orth>АБДАЛГЯГI</orth>
+                </form>
+                <gramGrp>
+                    <case>-ли, -ла</case>
+                    <number>-яни</number>
+                </gramGrp>
+                <sense>
+                    <def>1) психопат, тронутый (прост.), юродивый</def>
+                    <extent> 2) простак, простофиля; дураковатый, дурашливый, придурковатый; ~ сайри хIу, ахмах! простофиля ты, дурачина!</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>АБЗ/БИКI-ЕС</orth>
+                </form>
+                <gramGrp>
+                    <gen>~икΙ-ес, ~рикΙ-ес</gen>
+                    <number> ~дикΙ-ес</number>
+                    <tns>-ар, -ули, -уси, -ен(-ена/я)</tns>
+                </gramGrp>
+                <sense>
+                    <lbl>несов.</lbl>
+                    <def>1) соревноваться, состязаться</def>
+                    <extent>куртIлизиб ~ состязаться по плаванию; къяйкикIнилизив ~икΙес соревноваться в стрельбе; 2) соперничать, конкурировать; тягаться; багьудлумазиб иличил бахъал ~ хIебирар немногие могут соперничать с ним в знаниях.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>АБЗУР/БИР-ЕС</orth>
+                </form>
+                <gramGrp>
+                    <number>мн. ~дир-ес</number>
+                    <tns>-у(-ар), -ули, -уси, -ен(-ена/я)</tns>
+                    <gen>ΙΙΙ</gen>
+                </gramGrp>
+                <sense>
+                    <lbl>несов.</lbl>
+                    <def> 1) делать (становиться) цельным, целостным</def>
+                    <extent> 2) оканчивать(ся), кончать(ся), довершать(ся), завершать(ся); округляться; хΙянчи ~ули саби работа округляется (завершается).</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>АРХIЯГЪУНА</orth>
+                </form>
+                <sense>
+                    <def> шелковистый</def>
+                    <extent>~ гъез шелковистый волос.</extent>
+                </sense>
+            </entry>
+        </body>
+    </text>
+</TEI>

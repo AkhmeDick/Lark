@@ -1,0 +1,29 @@
+?start: entry
+entry: form gramgrp? sense?
+form: orth 
+orth: HEADWORD ","*
+
+gramgrp: ("[" gen ";" number "],") tns ";"
+            | ("[" number "],") tns ";" gen ";"
+            | case ";" number ";"
+case: CASE_NOUN
+gen: GRAM
+number: GRAM
+tns: GRAM
+
+sense: lbl? (def extent)* cit*
+lbl: LABEL
+def: WORD+ [";"]+ ";"
+extent: EXT+ ";"*
+LABEL: "несов." | "сов."
+cit: "♦" EXT+
+
+HEADWORD: /[0-9\/А-Я-IΙ]+/
+GRAM: /[-а-яIΙ~\.\s\/()\,]+/
+WORD: /[0-9\/А-Яа-яё()\s,-\.]+/
+EXT: /[\/А-Яа-яёIΙ()~\s,-;!\.]+/
+CASE_NOUN: /[-а-я\.\s\/\,]+/
+
+// -------- Importing basic data types and ignoring whitespaces --------
+%import common.WS
+%ignore WS
