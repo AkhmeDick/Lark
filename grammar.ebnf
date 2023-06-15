@@ -1,28 +1,42 @@
 ?start: entry
-entry: form gramgrp? sense?
-form: orth 
-orth: HEADWORD ","*
+entry: form gramgrp? (hom|sense)* cit?
 
-gramgrp: ("[" gen ";" number "],") tns ";"
-            | ("[" number "],") tns ";" gen ";"
-            | case ";" number ";"
-case: CASE_NOUN
-gen: GRAM
-number: GRAM
-tns: GRAM
+form: orth orth_n2?
+orth: _B HEADWORD HWNUMBER? ","? _B? | _B HEADWORD "//" HEADWORD _B
+orth_n2: (_B "[" EXT "]" ","? _B)
 
-sense: lbl? (def extent)* cit*
-lbl: LABEL
-def: WORD+ [";"]+ ";"
-extent: EXT+ ";"*
-LABEL: "несов." | "сов."
-cit: "♦" EXT+
+gramgrp: _B? "[" gen ";" number "]" ","* tns ";" gram*| "[<b>мн.</b>" number "]," tns ";" gen ";" gram*
+        | tns ";" gen ";" gram* | case ";" number ";" |number? |_B? "[" gen ";" number "]," tns ";"
+        | "[" gen ";" number "]" _B
+// pos: _I WORD _I
+case.1: [_B|","] CASE_NOUN _B // генитив, эргатив
+gen: GRAM _B | _B _I GRAM _I _B // муж, жен, III (не меняется по родам)
+number: _B GRAM | ","? GRAM _B | (_B|GRAM)+ | "," GRAM | _B GRAM _B 
+tns: ","? _B* CASE_NOUN _B 
 
-HEADWORD: /[0-9\/А-Я-IΙ]+/
+hom: pos* (_DIGIT ".") pos* (case ";" number ";")* lbl* def* extent* xr* "."?
+sense: pos* (_DIGIT ")")* (lbl* def extent* xr* | xr| lbl* usg lbl* def extent) "."?
+gram.1: _I GRAMVERB _I
+lbl: (_I WORD _I)+
+usg: _B EXT _B
+def: WORD (_I WORD _I WORD)?
+extent: _B EXT _B (_I WORD _I)? WORD
+xr.1: _I WORD _I _B EXT _B
+cit: "♦" extent* lbl* def*
+pos.1: _I PARTS0FSPEECH _I
+PARTS0FSPEECH: "союз" | "нареч." | "масд." | "частица" | "числ." | "предлог" | "в знач. сущ." | "межд."
+
+HEADWORD: /[\/А-Я-IΙ()◌́]+/
+HWNUMBER: /[0-9]+/
 GRAM: /[-а-яIΙ~\.\s\/()\,]+/
-WORD: /[0-9\/А-Яа-яё()\s,-\.]+/
-EXT: /[\/А-Яа-яёIΙ()~\s,-;!\.]+/
-CASE_NOUN: /[-а-я\.\s\/\,]+/
+WORD: /[–\/А-Яа-яё()\s,-\.;!?:«»◌́]+/
+EXT: /[–\/А-Яа-яёIΙ()~\s,-;!?\.«»◌́]+/
+_DIGIT: /[0-9]+/
+CASE_NOUN: /[-а-я\s\/\,()]+/
+GRAMVERB: "сов." | "несов."
+_B: "<b>"|"</b>"
+_I: "<i>"|"</i>"
+//_COMMA: ","
 
 // -------- Importing basic data types and ignoring whitespaces --------
 %import common.WS
