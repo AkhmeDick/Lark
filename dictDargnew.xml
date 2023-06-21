@@ -1,0 +1,1533 @@
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Даргинско-русский словарь</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Школа лингвистики НИУ ВШЭ</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Создан из словаря в формате DOC</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <entry>
+                <form>
+                    <orth>А 2</orth>
+                </form>
+                <gramGrp />
+                <sense>
+                    <xr type="see">пов. накл. от эс</xr>
+                </sense>
+                <sense>
+                    <def>сказать; скажи; передай;</def>
+                    <extent type="example">хΙуни ~ ты скажи.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>АБА</orth>
+                </form>
+                <gramGrp>
+                    <case>-ли, -ла</case>
+                    <number type="pl.">абни</number>
+                </gramGrp>
+                <sense>
+                    <def>мать, мама, родительница;</def>
+                    <xr type="see">см. неш</xr>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>АБААЛА</orth>
+                </form>
+                <gramGrp>
+                    <case>-ли, -ла</case>
+                    <number type="pl.">-би</number>
+                </gramGrp>
+                <sense>
+                    <def>достаточность;</def>
+                    <extent type="example">~ биру хватит, будет достаточным; </extent>
+                </sense>
+                <sense>
+                    <def>достаточное усердие, старание;</def>
+                    <extent type="example">илдала бузерилизиб ~ леб в их работе имеется достаточное усердие.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>АБАД</orth>
+                </form>
+                <gramGrp>
+                    <case>-ли, -ла</case>
+                    <number type="pl.">ед.</number>
+                </gramGrp>
+                <sense>
+                    <def>вечность;</def>
+                    <extent type="example">~лизи кягIес кануть в вечность.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>АБАДАЙ</orth>
+                </form>
+                <gramGrp>
+                    <case>-ли, -ла</case>
+                    <number>ед. и мн.</number>
+                </gramGrp>
+                <sense>
+                    <lbl>диал.</lbl>
+                    <def>тётя (по матери);</def>
+                    <extent type="example">~ла гьунгелти гостинцы тёти.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>АБАЖУР</orth>
+                </form>
+                <gramGrp>
+                    <case>-ли, -ла</case>
+                    <number type="pl.">-ти</number>
+                </gramGrp>
+                <sense>
+                    <def>абажур (колпак для лампы, светильника);</def>
+                    <extent type="example">кагъарла ~ бумажный абажур;</extent>
+                    <extent type="example">шишала ~ стеклянный абажур.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>А/БАКI-ЕС</orth>
+                </form>
+                <gramGrp>
+                    <number type="pl.">~дакΙ-ес</number>
+                    <tns>-иб, -или, -ибси, -а(-ая)</tns>
+                    <gen>III</gen>
+                    <gram>сов.</gram>
+                </gramGrp>
+                <sense>
+                    <def>засунуть, сунуть, всунуть; вещь (снизу-вверх) запихнуть, затиснуть, затолкать; пропихать, пропихнуть;</def>
+                    <extent type="example">тIярхъилизи турба ~иб в отверстие всунул трубу.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>А/БАЛК-ЕС</orth>
+                </form>
+                <gramGrp>
+                    <gen>~лк-ес, ~ралк-ес</gen>
+                    <number type="pl.">~далк-ес</number>
+                    <tns>-ун, -и, -унси, -ен(-ена/я)</tns>
+                    <gram>сов.</gram>
+                </gramGrp>
+                <sense>
+                    <lbl>огонь</lbl>
+                    <def>зажечь, разжечь, раздуть; возжечь;</def>
+                    <extent type="example">пирхикI ~ун зажёг спичку;</extent>
+                    <extent type="example">чирагъ, шала ~ес зажечь лампу, свет; </extent>
+                </sense>
+                <sense>
+                    <lbl>свет</lbl>
+                    <def>засветить;</def>
+                    <extent type="example">някъла лампочка ~ахъун засветил фонариком; </extent>
+                </sense>
+                <sense>
+                    <def>зажечься, загореться, засветиться, засиять; возгореться; вспыхнуть, сверкнуть; о слабом свете затеплиться;</def>
+                </sense>
+                <sense>
+                    <usg>цIа ~ун</usg>
+                    <def>зажёгся (загорелся) огонь;</def>
+                    <extent type="example">зубарти ~далкун зажглись звёзды; </extent>
+                </sense>
+                <sense>
+                    <lbl>о табаке, сигарете, трубке</lbl>
+                    <def>зажечься, раскуриться, закуриться;</def>
+                    <extent type="example">къалиян ~ун трубка раскурилась; </extent>
+                </sense>
+                <sense>
+                    <lbl>перен. о чувствах</lbl>
+                    <def>загореться, зажечься, разгореться, воспламениться;</def>
+                    <extent type="example">риганайличи карцIи ~далкун воспылала страсть к любимой.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>А/БАЛС-ЕС</orth>
+                </form>
+                <gramGrp>
+                    <gen>~лс-ес, ~ралс-ес</gen>
+                    <number type="pl.">~далс-ес</number>
+                    <tns>-а(-ан), -ули, -уси, -ен(-ена/я)</tns>
+                    <gram>несов.</gram>
+                </gramGrp>
+                <sense>
+                    <def>клеить, наклеивать, залеплять (снизу-вверх); </def>
+                </sense>
+                <sense>
+                    <lbl>о тумане</lbl>
+                    <def>стелиться, распространяться.</def>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>А/БАЛТ-ЕС</orth>
+                </form>
+                <gramGrp>
+                    <gen>~лт-ес, ~ралт-ес</gen>
+                    <number type="pl.">~далт-ес</number>
+                    <tns>-а, -ули, -уси, -ен(-ена/я)</tns>
+                    <gram>несов.</gram>
+                </gramGrp>
+                <sense>
+                    <def>подсаживать, сажать; </def>
+                </sense>
+                <sense>
+                    <def>просовывать; </def>
+                </sense>
+                <sense>
+                    <def>проделывать; </def>
+                </sense>
+                <sense>
+                    <lbl>перен.</lbl>
+                    <def>делать выдох, выдыхать; </def>
+                </sense>
+                <sense>
+                    <lbl>перен.</lbl>
+                    <def>протягивать руку.</def>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>А/БАЛЦI-ЕС</orth>
+                </form>
+                <gramGrp>
+                    <gen>~валцΙ-ес, ~ралцΙ-ес</gen>
+                    <number type="pl.">~далцΙ-ес</number>
+                    <tns>-ун, -и, -унси, -ен(-ена/я)</tns>
+                    <gram>сов.</gram>
+                </gramGrp>
+                <sense>
+                    <def>выбрать, отобрать;</def>
+                    <extent type="example">футболла командализи дурхIни ~ отобрать детей в футбольную команду; </extent>
+                </sense>
+                <sense>
+                    <def>набрать текст; </def>
+                </sense>
+                <sense>
+                    <lbl>об урожае</lbl>
+                    <def>собрать, снять;</def>
+                    <extent type="example">набадури ~далцIес собрать морковь.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>А/БАРХ-ЕС</orth>
+                </form>
+                <gramGrp>
+                    <gen>~рх-ес, ~рарх-ес</gen>
+                    <number type="pl.">~дарх-ес</number>
+                    <tns>-иб, -или, -ибси, -и(-ира/я)</tns>
+                    <gram>сов.</gram>
+                </gramGrp>
+                <sense>
+                    <xr type="see">см. абарха-кабархес</xr>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>А/БАРХЬ-ЕС</orth>
+                </form>
+                <gramGrp>
+                    <gen>~рхь-ес, ~рархь-ес</gen>
+                    <number type="pl.">~дархь-ес</number>
+                    <tns>-иб, -или, -ибси, -а(-ая)</tns>
+                    <gram>сов.</gram>
+                </gramGrp>
+                <sense>
+                    <def>отправить, направить; послать (снизу наверх);</def>
+                    <extent type="example">удиб бузутани кумекчиби ~иб работающие внизу, послали помощников.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>А/БАРЦ-ЕС</orth>
+                </form>
+                <gramGrp>
+                    <gen>~рц-ес, ~рарц-ес</gen>
+                    <number type="pl.">~дарц-ес</number>
+                    <tns>-ур, -урли, -урси, -и(-ира/я)</tns>
+                    <gram>сов.</gram>
+                </gramGrp>
+                <sense>
+                    <lbl>об одежде, обуви</lbl>
+                    <def>налезть, надеться;</def>
+                    <extent type="example">чакма хIилхIи адарцур сапоги еле налезли; </extent>
+                </sense>
+                <sense>
+                    <def>вместиться, уместиться, поместиться, войти; с трудом влезть, втиснуться;</def>
+                    <extent type="example">бицIибси автобусличи кIел гьатIи ~ур ещё двое втиснулись в переполненный автобус.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>А/БАС-ЕС</orth>
+                </form>
+                <gramGrp>
+                    <number type="pl.">~дас-ес</number>
+                    <tns>-ун, -и, -унси, -ен(-ена/я)</tns>
+                    <gen>III</gen>
+                    <gram>сов.</gram>
+                </gramGrp>
+                <sense>
+                    <def>наклеить, приклеить (снизу-вверх);</def>
+                    <extent type="example">бурхличи обойти ~дасес наклеить обои на потолок; </extent>
+                </sense>
+                <sense>
+                    <def>подмазать, отштукатурить (снизу-вверх); </def>
+                </sense>
+                <sense>
+                    <lbl>перен. о тумане</lbl>
+                    <def>растечься, распространиться;</def>
+                    <extent type="example">дирихь ~ун туман расстелился.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>А/БАТ-ЕС</orth>
+                </form>
+                <gramGrp>
+                    <gen>~т-ес, ~рат-ес</gen>
+                    <number type="pl.">~дат-ес</number>
+                    <tns>-ур, -урли, -урси, -и(-ира/я)</tns>
+                    <gram>сов.</gram>
+                </gramGrp>
+                <sense>
+                    <def>подсадить;</def>
+                    <extent type="example">машиналичи ~ подсадить на автомобиль; </extent>
+                </sense>
+                <sense>
+                    <def>просунуть; пропихнуть;</def>
+                    <extent type="example">някъ форточкализи ~ур просунул руку в форточку; </extent>
+                </sense>
+                <sense>
+                    <def>проделать;</def>
+                    <extent type="example">гIями ~ проделать дыру; </extent>
+                </sense>
+                <sense>
+                    <lbl>перен.</lbl>
+                    <def>выдохнуть;</def>
+                    <extent type="example">гьигь ~ вирули ахIен не может выдохнуть (дышать); </extent>
+                </sense>
+                <sense>
+                    <lbl>перен.</lbl>
+                    <def>протянуть, вытянуть руку.</def>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>А/БАЦI-ЕС</orth>
+                </form>
+                <gramGrp>
+                    <gen>~цΙ-ес, ~рацΙ-ес</gen>
+                    <number type="pl.">~дацΙ-ес</number>
+                    <tns>-иб, -или, -ибси, -и(-ира/я)</tns>
+                    <gram>сов.</gram>
+                </gramGrp>
+                <sense>
+                    <def>войти, зайти, вступить, пройти;</def>
+                    <extent type="example">хъули ~ войти в дом;</extent>
+                    <extent type="example">класслизи ~ войти в класс;</extent>
+                    <extent type="example">клублизи~ахъес (в)пустить в клуб;</extent>
+                    <extent type="example">~ахъес батес пустить;</extent>
+                    <extent type="example">~дацIахъабая дайте пройти, разрешите пройти; </extent>
+                </sense>
+                <sense>
+                    <def>взобраться, забраться, залезть; подняться, взойти;</def>
+                    <extent type="example">дубурличи ~иб взобрались на гору;</extent>
+                    <extent type="example">галгаличи ~ залезтьна дерево;</extent>
+                    <extent type="example">~ахъес кумекбарес подсадить; </extent>
+                </sense>
+                <sense>
+                    <def>заползти; налезть (много);</def>
+                    <extent type="example">хIелхъа гъяллизи ~иб ящерица заползла в щель;</extent>
+                </sense>
+                <sense>
+                    <usg>дахъал имиули ~дацΙиб</usg>
+                    <def>налезло много муравьев;</def>
+                    <extent type="example">~дацIахъес напустить; </extent>
+                </sense>
+                <sense>
+                    <def>втиснуться;</def>
+                    <extent type="example">илдала урга ~ втиснуться между ними; </extent>
+                </sense>
+                <sense>
+                    <lbl>перен.</lbl>
+                    <def>забрести, заглянуть; проскочить;</def>
+                    <extent type="example">юлдашличи ~ заглянуть к товарищу.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>А/БАШ-ЕС</orth>
+                </form>
+                <gramGrp>
+                    <gen>~ш-ес, ~раш-ес</gen>
+                    <number type="pl.">~даш-ес</number>
+                    <tns>-ар, -ули, -уси, -ен(-ена/я)</tns>
+                    <gram>несов.</gram>
+                </gramGrp>
+                <sense>
+                    <def>идти, подниматься, ходить вверх; подбираться;</def>
+                    <extent type="example">шуибил дерхIличи ~ подниматься на пятый этаж;</extent>
+                    <extent type="example">чΙябарлиурад имиули ~дашули сари из-под пола залезают муравьи;</extent>
+                </sense>
+                <sense>
+                    <lbl>о мяче</lbl>
+                    <def>отскакивать (от пола, земли);</def>
+                    <extent type="example">ункъли ~уси тап хорошо отскакивающий мяч.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>А/БА-ЭС</orth>
+                </form>
+                <gramGrp>
+                    <gen>~-эс, ~ра-эс</gen>
+                    <number type="pl.">~да-эс</number>
+                    <tns>-иб, -или, -ибси, -и(-ира/я)</tns>
+                    <gram>сов.</gram>
+                </gramGrp>
+                <sense>
+                    <def>дойти, дожить;</def>
+                    <extent type="example">кIелра дарш-дарш дусличи ~иб оба дожили до ста лет; </extent>
+                </sense>
+                <sense>
+                    <def>добраться, доехать, домчаться, дойти (пешком);</def>
+                    <extent type="example">дурхIни дубурла бекIличи ~иб дети добрались до вершины горы; </extent>
+                </sense>
+                <sense>
+                    <def>набраться, собраться;</def>
+                    <extent type="example">бахъал халкь ~иб набралось много народу; </extent>
+                </sense>
+                <sense>
+                    <def>хватить; достаться;</def>
+                    <extent type="example">лебтасалра ~иб хватило всем; </extent>
+                </sense>
+                <sense>
+                    <def>достать, дотянуться;</def>
+                    <extent type="example">бурхличи ~ достать до потолка; </extent>
+                </sense>
+                <sense>
+                    <def>добросить;</def>
+                    <extent type="example">къаркъа тугъличи ~ахъес добросить камень до линии; </extent>
+                </sense>
+                <sense>
+                    <def>дойти, достичь; о весе достигнуть (какого-н. уровня);</def>
+                    <extent type="example">шин кьукьубачи ~даиб вода дошла до колен;</extent>
+                    <extent type="example">арц ~даиб денег хватило;</extent>
+                    <extent type="example">илала битIакI даршал килоличи ~или саби его вес достиг ста килограммов; </extent>
+                </sense>
+                <sense>
+                    <lbl>перен. о тесте</lbl>
+                    <def>подняться, вспучиться;</def>
+                    <extent type="example">башни ~иб тесто поднялось; </extent>
+                </sense>
+                <sense>
+                    <lbl>перен. о бороде</lbl>
+                    <def>вырасти.</def>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>АБГI-ЕС</orth>
+                </form>
+                <gramGrp>
+                    <tns>-иб, -или, -ибси, -я(-яя), -яхъес, -ни</tns>
+                    <gen>III</gen>
+                    <gram>сов.</gram>
+                </gramGrp>
+                <sense>
+                    <def>провеять (обмолоченное зерно);</def>
+                    <extent type="example">дег хΙерила гΙергъи ~иб обмолот провеяли после обеда.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>АБД/АЛ</orth>
+                </form>
+                <gramGrp>
+                    <case>-ай, -а</case>
+                    <number type="pl.">-улти</number>
+                </gramGrp>
+                <sense>
+                    <def>глупец; дурак, болван; идиот, олух, кретин, обалдуй; придурок;</def>
+                    <extent type="example">~ баркьуди глупость, дурачество, идиотство;</extent>
+                    <extent type="example">~ гъай чушь, околесица и околёсица;</extent>
+                    <extent type="example">~ секIал чепуховина;</extent>
+                    <extent type="example">~ хьул прихоть;</extent>
+                    <extent type="example">~ шикьличилси с придурью;</extent>
+                    <extent type="example">~ барес дурака свалять;</extent>
+                    <extent type="example">~ хIебурес не говорить глупость; </extent>
+                </sense>
+                <sense>
+                    <def>сумасшедший, умалишённый; чокнутый; безумный;</def>
+                    <extent type="example">~ултала хъали дурдом, дом для умалишённых.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>АБДАЛ/БАР-ЕС</orth>
+                </form>
+                <gramGrp>
+                    <gen>~вар-ес, ~рар-ес</gen>
+                    <number type="pl.">~дар-ес</number>
+                    <tns>-иб, -или, -ибси, -а(-ая)</tns>
+                    <gram>сов.</gram>
+                </gramGrp>
+                <sense>
+                    <def>оглупить (сделать глупым); </def>
+                </sense>
+                <sense>
+                    <def>оглупить (сознательно исказить, принизить, опошлить);</def>
+                    <extent type="example">чила-биалра гъай ~дарес оглупить чьи-нибудь слова; </extent>
+                </sense>
+                <sense>
+                    <def>привести к сумасшествию; свести с ума; </def>
+                </sense>
+                <sense>
+                    <lbl>перен.</lbl>
+                    <def>опьянить, одурманить;</def>
+                    <extent type="example">дармай бекI ~иб лекарство одурманило голову.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>АБДАЛ/БИР-ЕС</orth>
+                </form>
+                <gramGrp>
+                    <gen>~ир-ес, ~рир-ес</gen>
+                    <number type="pl.">~дир-ес</number>
+                    <tns>-у(-ар), -ули, -уси, -ен(-ена/я)</tns>
+                    <gram>несов.</gram>
+                </gramGrp>
+                <sense>
+                    <def>оглуплять (делать, становиться глупым); </def>
+                </sense>
+                <sense>
+                    <def>оглуплять (сознательно искажать, принижать, опошлять);</def>
+                    <extent type="example">чила-биалра пикри ~ оглуплять чью-нибудь мысль; </extent>
+                </sense>
+                <sense>
+                    <def>глупеть, тупеть; дуреть; делать (становиться) глупым; оглуплять;</def>
+                    <extent type="example">ил~ирули сай он глупеет; </extent>
+                </sense>
+                <sense>
+                    <def>сходить с ума; приводить к сумасшествию; </def>
+                </sense>
+                <sense>
+                    <lbl>перен.</lbl>
+                    <def>пьянить, одурманивать(ся); одурять;</def>
+                    <extent type="example">бекI ~ути держ питьё, одуряющее голову;</extent>
+                    <extent type="example">ил тIемли бекI ~ули саби от этого аромата голова одурманивается. </extent>
+                </sense>
+                <cit>
+                    <extent type="example">Баркьагрили абдалиру погов. безделье оглупляет.</extent>
+                </cit>
+            </entry>
+            <entry>
+                <form>
+                    <orth>АБДАЛ/БИ-ЭС</orth>
+                </form>
+                <gramGrp>
+                    <gen>~и-эс, ~ри-эс</gen>
+                    <number type="pl.">~ди-эс</number>
+                    <tns>-уб, -убли, -убси, -и(-ира/я)</tns>
+                    <gram>сов.</gram>
+                </gramGrp>
+                <sense>
+                    <def>оглупеть, отупеть, одуреть;</def>
+                    <extent type="example">разидешли ~уб одурели от радости;</extent>
+                    <extent type="example">буцIардешли ~уб одурели от жары; </extent>
+                </sense>
+                <sense>
+                    <def>сойти с ума, помешаться; спятить;</def>
+                    <extent type="example">ил барес ну ~иубли ахIенра я не спятил, чтобы сделать это;</extent>
+                    <extent type="example">~иубси помешанный, сумасшедший, чокнутый;</extent>
+                    <extent type="example">~майруд не сходи с ума; </extent>
+                </sense>
+                <sense>
+                    <lbl>перен.</lbl>
+                    <def>одурманиться, одуреть;</def>
+                    <extent type="example">танбакула гавличибли бекI ~убли саби голова одурманилась от табачного дыма.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>АБДАЛВАРГ</orth>
+                </form>
+                <gramGrp>
+                    <case>-ли, -ла</case>
+                    <number type="pl.">абдалбаргани</number>
+                </gramGrp>
+                <sense>
+                    <def>полуумный, дурашливый, придурок (прост.).</def>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>АБДАЛГЯГI</orth>
+                </form>
+                <gramGrp>
+                    <case>-ли, -ла</case>
+                    <number type="pl.">-яни</number>
+                </gramGrp>
+                <sense>
+                    <def>психопат, тронутый (прост.), юродивый; </def>
+                </sense>
+                <sense>
+                    <def>простак, простофиля; дураковатый, дурашливый, придурковатый;</def>
+                    <extent type="example">~ сайри хIу, ахмах! простофиля ты, дурачина!</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>АБДАЛДЕШ</orth>
+                </form>
+                <gramGrp>
+                    <case>-ли, -ла</case>
+                    <number>мн.</number>
+                </gramGrp>
+                <sense>
+                    <def>глупость; идиотство; дурость; безумие;</def>
+                    <extent type="example">~уни дирес делать глупости;</extent>
+                    <extent type="example">~ пIугъбатур сдуру проболтался; </extent>
+                </sense>
+                <sense>
+                    <def>сумасшествие, помешанность, идиотизм;</def>
+                    <extent type="example">~ла лишантачилси с признаками помешанности.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>А/БЕЛГI-ЕС</orth>
+                </form>
+                <gramGrp>
+                    <number type="pl.">~делгΙ-ес</number>
+                    <tns>-ун, -и, -унси, -ен(-ена/я)</tns>
+                    <gen>III</gen>
+                    <gram>сов.</gram>
+                </gramGrp>
+                <sense>
+                    <def>завязать (кладь, поклажу, ношу);</def>
+                    <extent type="example">бугIми ~делгIес завязать снопы; </extent>
+                </sense>
+                <sense>
+                    <def>застегнуть (пуговицу, молнию).</def>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>А/БЕМЖ-ЕС</orth>
+                </form>
+                <gramGrp>
+                    <number type="pl.">~демж-ес</number>
+                    <tns>-ур, -урли, -урси, -и(-ира/я)</tns>
+                    <gen>III</gen>
+                    <gram>сов.</gram>
+                </gramGrp>
+                <sense>
+                    <lbl>об огне</lbl>
+                    <def>зажечься; разгореться;</def>
+                    <extent type="example">цIа ~ур огонь разгорелся; </extent>
+                </sense>
+                <sense>
+                    <lbl>перен. о споре</lbl>
+                    <def>разгореться;</def>
+                    <extent type="example">жал ~ур спор разгорелся.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>А/БЕМХЪ-ЕС</orth>
+                </form>
+                <gramGrp>
+                    <number type="pl.">~демхъ-ес</number>
+                    <tns>-ур, -урли, -урси, -и(-ира/я)</tns>
+                    <gen>III</gen>
+                    <gram>сов.</gram>
+                </gramGrp>
+                <sense>
+                    <def>распустить, расплести (связанное);</def>
+                    <extent type="example">буркьа хIева ~ распустить старый свитер.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>А/БЕМЦI-ЕС</orth>
+                </form>
+                <gramGrp>
+                    <number type="pl.">~демцΙ-ес</number>
+                    <tns>-ур, -урли, -урси, -и(-ира/я)</tns>
+                    <gen>III</gen>
+                    <gram>сов.</gram>
+                </gramGrp>
+                <sense>
+                    <def>встревожиться, забеспокоиться, растревожиться;</def>
+                    <xr type="see">см. бемцΙес</xr>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>А/БЕРД-ЕС 1</orth>
+                </form>
+                <gramGrp>
+                    <number type="pl.">~дерд-ес</number>
+                    <tns>-иб, -или, -ибси, -а(-ая)</tns>
+                    <gen>III</gen>
+                    <gram>сов.</gram>
+                </gramGrp>
+                <sense>
+                    <def>разобрать; взломать;</def>
+                    <xr type="see">см. бехъес</xr>
+                </sense>
+                <sense>
+                    <def>; </def>
+                </sense>
+                <sense>
+                    <def>вскрыть (открыть, распечатать);</def>
+                    <extent type="example">посылка ~ вскрыть посылку; </extent>
+                </sense>
+                <sense>
+                    <def>пробить (дыру);</def>
+                    <extent type="example">гΙями ~ пробить дыру; </extent>
+                </sense>
+                <sense>
+                    <def>вытащить;</def>
+                    <extent type="example">гIябул ~иб вытащил гвоздь; </extent>
+                </sense>
+                <sense>
+                    <def>сорвать; оторвать;</def>
+                    <extent type="example">вава ~ сорвать цветок; </extent>
+                </sense>
+                <sense>
+                    <lbl>перен.</lbl>
+                    <def>взыскать, потребовать;</def>
+                    <extent type="example">судли гIякIа ~иб суд взыскал штраф.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>А/БЕРД-ЕС 2</orth>
+                </form>
+                <gramGrp>
+                    <number type="pl.">~дерд-ес</number>
+                    <tns>-иб, -или, -ибси, -и(-ира/я)</tns>
+                    <gen>III</gen>
+                    <gram>сов.</gram>
+                </gramGrp>
+                <sense>
+                    <def>возникнуть; раздаться (голос, запах);</def>
+                    <extent type="example">кахси тIама ~иб раздался страшный голос (гул); </extent>
+                </sense>
+                <sense>
+                    <lbl>о клубах</lbl>
+                    <def>образоваться, подняться;</def>
+                    <extent type="example">гавла гулумти ~дердиб поднялись клубы дыма.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>А/БЕРКΙ-ЕС</orth>
+                </form>
+                <gramGrp>
+                    <number type="pl.">~деркΙ-ес</number>
+                    <tns>-иб, -или, -ибси, -а(-ая)</tns>
+                    <gen>III</gen>
+                    <gram>сов.</gram>
+                </gramGrp>
+                <sense>
+                    <lbl>об иголке</lbl>
+                    <def>проколоть, проткнуть (снизу-вверх); </def>
+                </sense>
+                <sense>
+                    <def>погнать (наверх);</def>
+                    <extent type="example">кьял хIенкьлизи ~иб корову погнал в стадо.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>А/БЕРХ-ЕС</orth>
+                </form>
+                <gramGrp>
+                    <gen>~рх-ес, ~рерх-ес</gen>
+                    <number type="pl.">~дерх-ес</number>
+                    <tns>-ур, -урли, -урси, -и(-ира/я)</tns>
+                    <gram>сов.</gram>
+                </gramGrp>
+                <sense>
+                    <def>кончиться, иссякнуть; закончиться; выкипеть;</def>
+                    <extent type="example">арц ~дерхур деньги кончились;</extent>
+                    <extent type="example">гIяйхъули шин ~дерхахъес вычерпать (всю) воду;</extent>
+                    <extent type="example">ухънала цIакьани ~дерхур перен. у старика иссякли силы; </extent>
+                </sense>
+                <sense>
+                    <def>взобраться, влезть; подняться;</def>
+                    <xr type="see">см. абацIес</xr>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>АБЗ</orth>
+                </form>
+                <gramGrp>
+                    <case>-ли, -ла</case>
+                    <number type="pl.">-ани</number>
+                </gramGrp>
+                <sense>
+                    <def>соревнование, состязание, конкурс; турнир, матч;</def>
+                    <extent type="example">футболла ~ футбольный матч;</extent>
+                    <extent type="example">далайчибала ~ конкурс певцов;</extent>
+                    <extent type="example">~анидехIдихьес начать соревнования;</extent>
+                    <extent type="example">~ла бехIбихьуд старт;</extent>
+                    <extent type="example">~ла бутIа тур;</extent>
+                    <extent type="example">~ла бутIакьянчи участник соревнования, конкурсант;</extent>
+                    <extent type="example">~ла ургакьяна судья, рефери матча; </extent>
+                </sense>
+                <sense>
+                    <def>соперничество, конкуренция;</def>
+                    <extent type="example">масани дурхахънила ~ конкуренция по сбыту товаров; </extent>
+                </sense>
+                <sense>
+                    <xr type="see">первая часть сложных слов со знач. «пустить, пускать в состязание, состязаться»: абзаэс</xr>
+                </sense>
+                <sense>
+                    <def>устроить состязание;</def>
+                    <extent type="example">абзбашес состязаться и т.д.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>АБЗА-ЭС</orth>
+                </form>
+                <gramGrp>
+                    <tns>-иб, -или, -ибси, -а(-ая)</tns>
+                    <gen>III</gen>
+                    <gram>сов.</gram>
+                </gramGrp>
+                <sense>
+                    <def>устроить состязание (или соревнование);</def>
+                    <extent type="example">урчи ~иб пустил коня вскачь;</extent>
+                    <extent type="example">~ибси машина букьбуун автомобиль, пущенный в автопробег, отказал.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>АБЗ/БИК-ЕС</orth>
+                </form>
+                <gramGrp>
+                    <gen>~ик-ес, ~рик-ес</gen>
+                    <number type="pl.">~дик-ес</number>
+                    <tns>-иб, -или, -ибси, -и(-ира/я)</tns>
+                    <gram>сов.</gram>
+                </gramGrp>
+                <sense>
+                    <xr type="see">см. абзбизес</xr>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>АБЗ/БИКI-ЕС</orth>
+                </form>
+                <gramGrp>
+                    <gen>~икΙ-ес, ~рикΙ-ес</gen>
+                    <number type="pl.">~дикΙ-ес</number>
+                    <tns>-ар, -ули, -уси, -ен(-ена/я)</tns>
+                    <gram>несов.</gram>
+                </gramGrp>
+                <sense>
+                    <def>соревноваться, состязаться;</def>
+                    <extent type="example">куртIлизиб ~ состязаться по плаванию;</extent>
+                    <extent type="example">къяйкикIнилизив ~икΙес соревноваться в стрельбе; </extent>
+                </sense>
+                <sense>
+                    <def>соперничать, конкурировать; тягаться;</def>
+                    <extent type="example">багьудлумазиб иличил бахъал ~ хIебирар немногие могут соперничать с ним в знаниях.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>АБЗ/БИРК-ЕС</orth>
+                </form>
+                <gramGrp>
+                    <gen>~ирк-ес, ~рирк-ес</gen>
+                    <number type="pl.">~дирк-ес</number>
+                    <tns>-ур, -ули, -уси, -ен(-ена/я)</tns>
+                    <gram>несов.</gram>
+                </gramGrp>
+                <sense>
+                    <xr type="see">см. абзбикIес</xr>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>АБЗУР</orth>
+                </form>
+                <gramGrp>
+                    <number />
+                </gramGrp>
+                <hom>
+                    <lbl>кр. прил.</lbl>
+                    <def>весь, круглый, целый;</def>
+                    <extent type="example">~ дус круглый год;</extent>
+                    <extent type="example">~ дусла круглогодовой</extent>
+                </hom>
+                <sense>
+                    <lbl>и</lbl>
+                    <def>круглогодичный;</def>
+                    <extent type="example">~ сягIят целый час;</extent>
+                    <extent type="example">~ бархIи заяли арбякьун весь день пропал зря; </extent>
+                </sense>
+                <hom>
+                    <xr type="see">первая часть сложных слов со знач. «стать цельным; закончиться»: абзурбиэс</xr>
+                </hom>
+                <sense>
+                    <def>стать цельным и т.д.</def>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>АБЗУР/БАР-ЕС</orth>
+                </form>
+                <gramGrp>
+                    <number type="pl.">~дар-ес</number>
+                    <tns>-иб, -или, -ибси, -а(-ая)</tns>
+                    <gen>III</gen>
+                    <gram>сов.</gram>
+                </gramGrp>
+                <sense>
+                    <def>сделать целостным; довести до полноты; </def>
+                </sense>
+                <sense>
+                    <def>кончить, довести до конца, завершить, довершить;</def>
+                    <extent type="example">хIянчи ~ довершить работу.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>АБЗУР/БИР-ЕС</orth>
+                </form>
+                <gramGrp>
+                    <number type="pl.">~дир-ес</number>
+                    <tns>-у(-ар), -ули, -уси, -ен(-ена/я)</tns>
+                    <gen>III</gen>
+                    <gram>несов.</gram>
+                </gramGrp>
+                <sense>
+                    <def>делать (становиться) цельным, целостным; </def>
+                </sense>
+                <sense>
+                    <def>оканчивать(ся), кончать(ся), довершать(ся), завершать(ся); округляться;</def>
+                    <extent type="example">хΙянчи ~ули саби работа округляется (завершается).</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>БУЗ-ЕС 1</orth>
+                </form>
+                <gramGrp>
+                    <gen>уз-ес, руз-ес</gen>
+                    <number type="pl.">дуз-ес</number>
+                    <tns>-ар, -ули, -уси, -ен(-ена/я)</tns>
+                    <gram>несов.</gram>
+                </gramGrp>
+                <sense>
+                    <def>работать, трудиться; спориться;</def>
+                    <extent type="example">~ бируси трудоспособный, дееспособный;</extent>
+                    <extent type="example">узесвяхIес взяться за дело, работу;</extent>
+                    <extent type="example">узескайэс начать работать;</extent>
+                    <extent type="example">узес вашес ходить работать;</extent>
+                    <extent type="example">нуша ишар дус дузулра мы здесь работаем год; </extent>
+                </sense>
+                <sense>
+                    <lbl>перен.</lbl>
+                    <def>находиться в действии, действовать, функционировать;</def>
+                    <extent type="example">аптекаби дугелира дузар аптеки работают и ночью (круглосуточно); </extent>
+                </sense>
+                <sense>
+                    <lbl>перен.</lbl>
+                    <def>торговать, обращаться;</def>
+                    <extent type="example">арц дузахъес пускать деньги в оборот; </extent>
+                </sense>
+                <sense>
+                    <lbl>перен.</lbl>
+                    <def>употребляться;</def>
+                    <extent type="example">дуркьа дугьби камли дузахъули сари устаревшие слова употребляются редко; </extent>
+                </sense>
+                <sense>
+                    <lbl>перен.</lbl>
+                    <def>котироваться; </def>
+                </sense>
+                <sense>
+                    <lbl>перен. часы и т.п.</lbl>
+                    <def>идти, ходить;</def>
+                    <extent type="example">~ули саби в ходу; </extent>
+                </sense>
+                <sense>
+                    <lbl>перен. о растении или его части</lbl>
+                    <def>привиться;</def>
+                    <extent type="example">чебатурси кьяли ~ули саби черенок привился; </extent>
+                </sense>
+                <sense>
+                    <lbl>перен.</lbl>
+                    <def>служить, выполнять своё назнач.;</def>
+                </sense>
+                <sense>
+                    <usg>дрель гьачамлис ~ули саби</usg>
+                    <def>дрель пока ещё служит;</def>
+                    <extent type="example">~ули калес прослужить; </extent>
+                </sense>
+                <sense>
+                    <lbl>перен.</lbl>
+                    <def>везти; быть удачливым, везучим.</def>
+                </sense>
+                <cit>
+                    <extent type="example">УзхIевзусила кьимат хIебирар погов. у того, кто не работает, уважение не бывает.</extent>
+                    <extent type="example">УзхIевзусила хъу хIедухъар погов. у того, кто не работает, поле не даёт урожая.</extent>
+                </cit>
+            </entry>
+            <entry>
+                <form>
+                    <orth>БУЗ-ЕС 2</orth>
+                </form>
+                <gramGrp>
+                    <gen>уз-ес, руз-ес</gen>
+                    <number type="pl.">дуз-ес</number>
+                    <tns>-иб, -и, -ибси, -ен(-ена/я)</tns>
+                    <gram>сов.</gram>
+                </gramGrp>
+                <sense>
+                    <def>поработать, потрудиться;</def>
+                    <extent type="example">узи́ ункъли у́зи брат хорошо работал;</extent>
+                    <extent type="example">ил дагра рузиб она и вчера (по)работала.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>БУЗ-ЕС 3</orth>
+                </form>
+                <gramGrp>
+                    <gen>уз-ес, руз-ес</gen>
+                    <number type="pl.">дуз-ес</number>
+                    <tns>-у(-ар), -ули, -уси, -ен(-ена/я)</tns>
+                    <gram>несов.</gram>
+                </gramGrp>
+                <sense>
+                    <def>калить, прожаривать зерно (кукурузу и т.п.); заниматься прожариванием зерна;</def>
+                    <extent type="example">анкIили рузули сари прожаривает зерно.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>ВАДАДАЙ</orth>
+                </form>
+                <gramGrp>
+                    <case>-ли, -ла</case>
+                    <number>ед. и мн.</number>
+                </gramGrp>
+                <sense>
+                    <pos>межд.</pos>
+                    <def>ого-го (выражает удивление и употребляется только женщинами);</def>
+                    <extent type="example">~, дила ахмах чарухъун ого-го, мой дурень вернулся;</extent>
+                    <xr type="see">см. вабабай</xr>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>ВАЙ 1</orth>
+                    <orth_n2>рай</orth_n2>
+                </form>
+                <gramGrp>
+                    <case>-ли, -ла</case>
+                    <number type="pl.">ед.</number>
+                </gramGrp>
+                <sense>
+                    <def>талия, стан; пояс;</def>
+                    <extent type="example">гъярцΙа ~ тонкая талия;</extent>
+                    <extent type="example">~личи бикайчи шиннизив по пояс в воде; </extent>
+                </sense>
+                <sense>
+                    <def>поясница;</def>
+                    <extent type="example">~ изули саби поясница болит.</extent>
+                </sense>
+                <cit>
+                    <extent type="example">Вайла хъар туловище (букв. часть тела выше талии).</extent>
+                    <extent type="example">Вайла хьар часть тела ниже талии.</extent>
+                </cit>
+            </entry>
+            <entry>
+                <form>
+                    <orth>ВАЙ 2</orth>
+                </form>
+                <gramGrp />
+                <hom>
+                    <xr type="see">кр. ф. от вайси</xr>
+                </hom>
+                <sense>
+                    <def>;</def>
+                    <extent type="example">~ хабар недобрая весть; </extent>
+                </sense>
+                <hom>
+                    <pos>в знач. сущ.</pos>
+                    <case>-ли, -ла</case>
+                    <number type="pl.">-ти</number>
+                    <def>зло; злое; недоброе, плохое;</def>
+                    <extent type="example">~ бирес творить зло;</extent>
+                    <extent type="example">наб ~ барес а) сделать мне недоброе; б) назло мне.</extent>
+                </hom>
+            </entry>
+            <entry>
+                <form>
+                    <orth>ВАЙ 3</orth>
+                </form>
+                <gramGrp>
+                    <number />
+                </gramGrp>
+                <hom>
+                    <pos>межд.</pos>
+                    <def>ах, ой, ох, ба; о; ой; ой-ой-ой (выражает радость, удивление, восхищение, удовольствие, а иногда недоумение, усталость, страдание, сожаление или презрение, а также печаль, испуг);</def>
+                    <extent type="example">~, дила Аллагь! ах, боже мой!</extent>
+                    <extent type="example">~, дила юлдаш ой, мой дружок;</extent>
+                    <extent type="example">~, дила вамсни! ой, как я устал!</extent>
+                    <extent type="example">~, хΙябилра ветΙилри хΙу наб ох, и надоел же ты мне;</extent>
+                    <extent type="example">~, хΙебиубси биалри ой, лучше бы не случилось; </extent>
+                </hom>
+                <hom>
+                    <def>ой! (возглас при физической боли);</def>
+                    <extent type="example">~, хΙули изули саби! ой, глаз болит! </extent>
+                </hom>
+                <cit>
+                    <extent type="example">Вай, хΙела гΙямру гΙеркъадиъ! благопож. да чтобы ты долго жил! да продлится твоя жизнь!</extent>
+                </cit>
+            </entry>
+            <entry>
+                <form>
+                    <orth>ВАЛЛАГЬ-ТАЛЛАГЬ</orth>
+                </form>
+                <gramGrp>
+                    <number />
+                </gramGrp>
+                <sense>
+                    <pos>межд.</pos>
+                    <xr type="see">см. валлагь</xr>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>ГУЖБАРНИ</orth>
+                </form>
+                <gramGrp />
+                <hom>
+                    <xr type="see">масд. от гужбарес</xr>
+                </hom>
+                <sense>
+                    <def>; </def>
+                </sense>
+                <hom>
+                    <pos>в знач. сущ.</pos>
+                    <case>-ли, -ла</case>
+                    <number type="pl.">ед. изнасилование</number>
+                    <extent type="example">рурсиличи ~ вайгъабзас дурхъали кабизур подлец дорого поплатился за изнасилование девушки.</extent>
+                </hom>
+            </entry>
+            <entry>
+                <form>
+                    <orth>ГЪАЙКIАРИ</orth>
+                </form>
+                <gramGrp>
+                    <case>-ли, -ла</case>
+                    <number type="pl.">гъайкIурти</number>
+                </gramGrp>
+                <sense>
+                    <def>колокольчик;</def>
+                    <extent type="example">някъла ~ ручной колокольчик.</extent>
+                </sense>
+                <cit>
+                    <extent type="example">ГъайкΙари вава колокольчик (цветок).</extent>
+                </cit>
+            </entry>
+            <entry>
+                <form>
+                    <orth>ГЪАЛАТΙДЕШ</orth>
+                </form>
+                <gramGrp>
+                    <case>-ли, -ла</case>
+                    <number type="pl.">ед.</number>
+                </gramGrp>
+                <sense>
+                    <lbl>устар.</lbl>
+                    <def>ошибочность;</def>
+                    <extent type="example">пикрила ~ ошибочность мнения, мысли.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>ГЪАЛАТΙ/СИ</orth>
+                </form>
+                <gramGrp>
+                    <number type="pl.">-ти</number>
+                </gramGrp>
+                <sense>
+                    <lbl>устар.</lbl>
+                    <def>ошибочный, неправильный; имеющий погрешность.</def>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>ГЪАМЛИ</orth>
+                </form>
+                <gramGrp />
+                <hom>
+                    <pos>нареч.</pos>
+                    <def>близко; рядом, рядком, вплотную; поблизости, невдалеке, неподалёку, около, поблизости, не доходя до;</def>
+                    <extent type="example">бегIтачи ~ хIерирес жить близко от родителей;</extent>
+                    <extent type="example">юртличи ~ анхъ леб неподалёку от дома имеется сад; </extent>
+                </hom>
+                <hom>
+                    <lbl>в знач. сказ.</lbl>
+                    <def>скоро;близко;</def>
+                    <extent type="example">дуги ~ саби скоро ночь; ночь близка.</extent>
+                </hom>
+            </entry>
+            <entry>
+                <form>
+                    <orth>ГЪАМ/СИ</orth>
+                </form>
+                <gramGrp>
+                    <number type="pl.">-ти</number>
+                </gramGrp>
+                <sense>
+                    <def>близкий;</def>
+                    <extent type="example">~ дякь близкая тропа;</extent>
+                    <extent type="example">~ти пIянкьала близкие выстрелы; </extent>
+                </sense>
+                <sense>
+                    <lbl>перен.</lbl>
+                    <def>близкий (по времени);</def>
+                </sense>
+                <sense>
+                    <usg>~ челябкьла</usg>
+                    <def>близкое будущее;</def>
+                    <extent type="example">~заманализиб с часу на час, в скором времени; </extent>
+                </sense>
+                <sense>
+                    <lbl>перен. о родстве</lbl>
+                    <def>кровно связанный, близкий; родственный, родной;</def>
+                    <extent type="example">~ адам родственник;</extent>
+                    <extent type="example">~ тухум близкий родственник;</extent>
+                    <extent type="example">вегIла ~ти баргес найти свою родню;</extent>
+                </sense>
+                <sense>
+                    <usg>~ветаахъес</usg>
+                    <def>сроднить;</def>
+                    <extent type="example">~ ветаэс сродниться; </extent>
+                </sense>
+                <sense>
+                    <lbl>перен. с кем</lbl>
+                    <def>связанный тесным личным общением, дружбой, любовью;</def>
+                    <extent type="example">~ гъалмагъ близкий приятель;</extent>
+                    <extent type="example">~ти уркIи-хIял близкие отношения (дружеские, а также интимные); </extent>
+                </sense>
+                <sense>
+                    <lbl>перен. по чему, в чём</lbl>
+                    <def>; сходный, похожий;</def>
+                    <extent type="example">мягIна хIясибли ~ близкий по содержанию;</extent>
+                    <extent type="example">лебсиличи ~ близкий к подлиннику, действительности.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>ДЕКIАР</orth>
+                </form>
+                <gramGrp />
+                <sense>
+                    <pos>союз</pos>
+                    <def>и;</def>
+                    <extent type="example">наб ~ себариша? и мне на что?</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>ЖЯРГА</orth>
+                </form>
+                <gramGrp />
+                <sense>
+                    <def>грязный; </def>
+                </sense>
+                <sense>
+                    <lbl>перен.</lbl>
+                    <def>неприличный, непристойный; скверный;</def>
+                    <extent type="example">~ адам грязный (или скверный) человек;</extent>
+                </sense>
+                <sense>
+                    <usg>~ гъай</usg>
+                    <def>неприличные, нецензурные слова;</def>
+                    <extent type="example">~ дев вульгаризм; </extent>
+                </sense>
+                <sense>
+                    <lbl>первая часть сложных слов со знач. «испачкать, осквернить»:</lbl>
+                    <usg>жяргабарес</usg>
+                    <def>испачкать, осквернить;</def>
+                    <extent type="example">жяргабирес пачкать, поганить и т.д. </extent>
+                </sense>
+                <cit>
+                    <extent type="example">Жярга девли ханжал чIяхIбирахъу, адабла девли кьяртIайзи чарбирахъу погов. непристойное слово заставляет хвататься за кинжал, а пристойное – возвращает в ножны.</extent>
+                </cit>
+            </entry>
+            <entry>
+                <form>
+                    <orth>КЪАГЪБАШ</orth>
+                </form>
+                <gramGrp>
+                    <number />
+                </gramGrp>
+                <hom>
+                    <case>-ли, -ла</case>
+                    <number type="pl.">-уни</number>
+                    <def>сумасброд, тупица, дурень, остолоп; человек с дурью;</def>
+                    <extent type="example">~ла баркьуди поступок сумасброда; </extent>
+                </hom>
+                <hom>
+                    <lbl>в знач. прил.</lbl>
+                    <def>сумасбродный, нелепый;</def>
+                    <extent type="example">~ баркьуди сумасбродный поступок. </extent>
+                </hom>
+                <cit>
+                    <extent type="example">Къагъбашлис дарман хIедирар погов. человеку с дурью лекарств не бывает.</extent>
+                </cit>
+            </entry>
+            <entry>
+                <form>
+                    <orth>ПАРКЬАГАР/(СИ)</orth>
+                </form>
+                <gramGrp>
+                    <number type="pl.">-ти</number>
+                </gramGrp>
+                <hom>
+                    <def>несообразительный, несмышлёный; разг. безалаберный;</def>
+                    <extent type="example">~ адам безалаберный человек; </extent>
+                </hom>
+                <hom>
+                    <pos>в знач. сущ.</pos>
+                    <case>-ли, -ла</case>
+                    <number type="pl.">-ти</number>
+                    <def>тупица.</def>
+                </hom>
+            </entry>
+            <entry>
+                <form>
+                    <orth>АВКЬЯРЯКЬЛИ</orth>
+                </form>
+                <gramGrp />
+                <sense>
+                    <pos>нареч.</pos>
+                    <def>с четырьмя стволами ( или четырьмя ветвями); </def>
+                </sense>
+                <sense>
+                    <lbl>перен.</lbl>
+                    <def>вчетверо, четырёхкратно. </def>
+                </sense>
+                <cit>
+                    <extent type="example">Авкьярякьли хъу дерхъаб! благопож. да будет обильным урожай (букв. пусть поля заколосятся с четырьмя колосьями на стебле)!</extent>
+                </cit>
+            </entry>
+            <entry>
+                <form>
+                    <orth>АВКЬЯШ/АН</orth>
+                </form>
+                <gramGrp>
+                    <number />
+                </gramGrp>
+                <hom>
+                    <def>четырёхногий, четвероногий;</def>
+                    <extent type="example">~ гьалмагъ (хяличила) четвероногий друг (о собаке); </extent>
+                </hom>
+                <hom>
+                    <pos>в знач. сущ.</pos>
+                    <case>-ай, -а</case>
+                    <number type="pl.">-анти</number>
+                    <lbl>о животном</lbl>
+                    <def>(о корове и т.д.)</def>
+                    <extent type="example">~ чарбухъун четвероногая вернулась.</extent>
+                </hom>
+            </entry>
+            <entry>
+                <form>
+                    <orth>АВМУЗ</orth>
+                </form>
+                <gramGrp>
+                    <number />
+                </gramGrp>
+                <hom>
+                    <case>-ли, -ла</case>
+                    <number type="pl.">-уни</number>
+                    <def>квадрат; четырёхугольник;</def>
+                    <extent type="example">~ белкΙес нарисовать четырёхугольник; </extent>
+                </hom>
+                <hom>
+                    <xr type="see">первая часть сложных слов со знач. «сделать четырёхугольным»: авмузбирес</xr>
+                </hom>
+                <sense>
+                    <def>делать четырёхугольным и т.д.</def>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>БАГЬНИАГАР/(СИ)</orth>
+                </form>
+                <gramGrp>
+                    <number type="pl.">-ти</number>
+                </gramGrp>
+                <sense>
+                    <def>не имеющий познаний, выучки, знаний;</def>
+                    <extent type="example">техникализив ~ адам человек, не обладающий познаниями в технике.</extent>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>БАЖАРДИАГАР/(СИ)</orth>
+                </form>
+                <gramGrp>
+                    <number type="pl.">-ти </number>
+                </gramGrp>
+                <sense>
+                    <xr type="see">см. бажарагар(си)</xr>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>БАЖАРДИАГРИ</orth>
+                </form>
+                <gramGrp>
+                    <case>-ли, -ла</case>
+                    <number type="pl.">ед.</number>
+                </gramGrp>
+                <sense>
+                    <xr type="see">см. бажарагри</xr>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>БАЙ/ЛАБ ДАЙ/ЛАБ</orth>
+                    <orth_n2>~лав, ~лар</orth_n2>
+                </form>
+                <gramGrp />
+                <hom>
+                    <pos>нареч.</pos>
+                    <def>посреди, между, посередине;</def>
+                    <extent type="example">лебилра кабииб, ил ~лар тΙашризур все сели, она встала посередине; </extent>
+                </hom>
+                <hom>
+                    <pos>предлог</pos>
+                    <def>среди;</def>
+                    <xr type="see">см. ургаб</xr>
+                </hom>
+            </entry>
+            <entry>
+                <form>
+                    <orth>ГАЗА́ 1</orth>
+                </form>
+                <gramGrp>
+                    <case>-ни, -ла</case>
+                    <number type="pl.">гузни</number>
+                </gramGrp>
+                <sense>
+                    <def>кобыла, кобылица;</def>
+                    <extent type="example">~ни тяй баркьиб кобы́ла родила жеребёнка. </extent>
+                </sense>
+                <cit>
+                    <extent type="example">Газара дила, тяйра дила погов. что хочу, то и делаю (букв. и кобыла моя, и жеребёнок мой).</extent>
+                </cit>
+            </entry>
+            <entry>
+                <form>
+                    <orth>ГАП</orth>
+                </form>
+                <gramGrp>
+                    <case>-ли, -ла</case>
+                    <number>мн.</number>
+                </gramGrp>
+                <sense>
+                    <def>хвала, похвала, хваление, одобрение;</def>
+                    <extent type="example">~личи лайикьси достойный похвалы, одобрения;</extent>
+                    <extent type="example">~ иргъахъуси одобрительный ; </extent>
+                </sense>
+                <sense>
+                    <def>лесть, угодливое восхваление;</def>
+                    <extent type="example">тякси ~ перен. тонкая лесть; </extent>
+                </sense>
+                <sense>
+                    <xr type="see">первая часть сложных слов со знач. «похвалить, хвастаться» гапбарес</xr>
+                </sense>
+                <sense>
+                    <def>похвалить;</def>
+                    <extent type="example">гапбулхъес хвастаться и т.д. </extent>
+                </sense>
+                <cit>
+                    <extent type="example">Гапра бирар, гапра погов. бывает похвала, бывает и лесть.</extent>
+                    <extent type="example">Гапла хив бацIли бирар погов. хвалёный орех бывает пуст.</extent>
+                    <extent type="example">Гапла хъу хъалтаарар погов. хвалёное поле зарастает бурьяном.</extent>
+                </cit>
+            </entry>
+            <entry>
+                <form>
+                    <orth>ГЬУ</orth>
+                </form>
+                <gramGrp>
+                    <number />
+                </gramGrp>
+                <hom>
+                    <pos>межд.</pos>
+                    <def>ну, ну-ка (выражает побуждение, удивление, восхищение);</def>
+                    <extent type="example">~, бура гьари, бура! ну, рассказывай-ка, рассказывай!</extent>
+                    <extent type="example">~, лехIахъи! да ну, молчи! </extent>
+                </hom>
+                <hom>
+                    <pos>частица</pos>
+                    <def>да (употребляется при ответе для выражения утверждения, согласия);</def>
+                    <extent type="example">– ва, ГΙяли! – ~! – эй, Али! – да! </extent>
+                </hom>
+                <hom>
+                    <pos>межд.</pos>
+                    <def>взы;</def>
+                    <xr type="see">см. гьис</xr>
+                </hom>
+                <sense>
+                    <def>; </def>
+                </sense>
+                <hom>
+                    <pos>частица</pos>
+                    <def>вот;</def>
+                    <extent type="example">~, гьанна хΙушазира бурулра вот, теперь и вам говорю; </extent>
+                </hom>
+                <hom>
+                    <pos>частица</pos>
+                    <def>нуте, нуте-с (фамильярное выражение побуждения);</def>
+                    <extent type="example">~, бурая се бетаурал нуте, расскажите, что случилось; </extent>
+                </hom>
+                <hom>
+                    <xr type="see">первая часть сложных слов со знач. «нукать, гнать»: гьубарес</xr>
+                </hom>
+                <sense>
+                    <def>гнать;</def>
+                    <extent type="example">гьубирес подгонять. </extent>
+                </sense>
+                <cit>
+                    <extent type="example">Гьу, дила бугъа! фольк. о, молодец! (выражает одобрение, побуждение к действию, букв. о, мой бугай!).</extent>
+                </cit>
+            </entry>
+        </body>
+    </text>
+</TEI>
